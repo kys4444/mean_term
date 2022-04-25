@@ -4,4 +4,4 @@
 
 [경일대학교](http://www.kiu.ac.kr)
 
-![아이유](./image/1.jpg)
+![아이유](./image/1.jpeg)
